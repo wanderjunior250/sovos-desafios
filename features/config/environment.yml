@@ -1,0 +1,6 @@
+APP:
+  home: 'https://www.amazon.com'
+API:
+  WEBSERVICE:
+    get: 'http://services.groupkt.com/country/get/all'
+  
